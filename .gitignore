@@ -167,3 +167,5 @@ dotenv.exe
 
 # Ignore .vscode directory
 .vscode/
+# Ignore entire virtual environment
+env_name/
