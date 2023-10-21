@@ -158,3 +158,12 @@ openai_config.yaml
 # Custom logs or data files
 *.log
 data/
+
+# Ignore images folder
+/images/
+
+# Ignore dotenv executable
+dotenv.exe
+
+# Ignore .vscode directory
+.vscode/
